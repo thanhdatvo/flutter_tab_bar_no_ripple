@@ -1,8 +1,8 @@
 # TabBarNoRipple
-
 [![Build Status](https://travis-ci.org/datvo0110/flutter_tab_bar_no_ripple.svg?branch=master)](https://travis-ci.org/datvo0110/flutter_tab_bar_no_ripple)
+<br />
 Just tab bar of Flutter, without Ripple Effect
-
+<br />
 ![](demo.gif)
 
 
