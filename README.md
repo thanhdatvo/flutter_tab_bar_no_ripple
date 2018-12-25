@@ -1,12 +1,10 @@
 # TabBarNoRipple
 [![](https://img.shields.io/pub/v/flutter_tab_bar_no_ripple.svg)](https://pub.dartlang.org/packages/flutter_tab_bar_no_ripple)[![Build Status](https://travis-ci.org/datvo0110/flutter_tab_bar_no_ripple.svg?branch=master)](https://travis-ci.org/datvo0110/flutter_tab_bar_no_ripple)
-&nbsp;
-&nbsp;
+
 Just tab bar of Flutter, without Ripple Effect
-&nbsp;
-<p>
+
 ![](demo.gif)
-</p>
+
 
 ## How to use
 This widget has the same API as TabBar widget in Flutter
