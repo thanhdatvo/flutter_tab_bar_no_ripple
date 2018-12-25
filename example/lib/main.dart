@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 
 enum TabsDemoStyle { iconsAndText, iconsOnly, textOnly }
 
-void main() => runApp(ScrollableTabsDemo());
+void main() => runApp(App());
 
 class _Page {
   const _Page({this.icon, this.text});
@@ -23,6 +23,16 @@ class MaterialDemoDocumentationButton extends StatelessWidget {
         icon: const Icon(Icons.library_books),
         tooltip: 'API documentation',
         onPressed: () {});
+  }
+}
+
+class App extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Title',
+      home: ScrollableTabsDemo(),
+    );
   }
 }
 
