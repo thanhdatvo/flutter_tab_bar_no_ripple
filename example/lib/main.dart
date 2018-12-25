@@ -2,8 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
-import 'package:flutter_tab_bar_no_ripple/flutter_tab_bar_no_ripple.dart'
-    show TabBarNoRipple;
+import 'package:flutter_tab_bar_no_ripple/flutter_tab_bar_no_ripple.dart';
 import 'package:flutter/material.dart';
 
 enum TabsDemoStyle { iconsAndText, iconsOnly, textOnly }
